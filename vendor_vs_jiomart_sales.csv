@@ -1,0 +1,301 @@
+Date,Vendor_Name,Product,Units_Sold,Revenue,Area
+2025-05-20,Ram Veggies,Tomatoes,78,1248,Burhanpur
+2025-05-20,Ram Veggies,Potatoes,85,1955,Burhanpur
+2025-05-20,Ram Veggies,Bananas,84,924,Burhanpur
+2025-05-20,Ram Veggies,Onions,67,670,Burhanpur
+2025-05-20,Ram Veggies,Apples,97,2231,Burhanpur
+2025-05-20,Shyam Fruits,Tomatoes,81,1620,Burhanpur
+2025-05-20,Shyam Fruits,Potatoes,55,990,Burhanpur
+2025-05-20,Shyam Fruits,Bananas,29,348,Burhanpur
+2025-05-20,Shyam Fruits,Onions,68,1496,Burhanpur
+2025-05-20,Shyam Fruits,Apples,51,1071,Burhanpur
+2025-05-20,JioMart,Tomatoes,151,3775,Burhanpur
+2025-05-20,JioMart,Potatoes,177,3894,Burhanpur
+2025-05-20,JioMart,Bananas,297,4455,Burhanpur
+2025-05-20,JioMart,Onions,124,1488,Burhanpur
+2025-05-20,JioMart,Apples,205,1640,Burhanpur
+2025-05-21,Ram Veggies,Tomatoes,43,688,Burhanpur
+2025-05-21,Ram Veggies,Potatoes,49,637,Burhanpur
+2025-05-21,Ram Veggies,Bananas,58,1392,Burhanpur
+2025-05-21,Ram Veggies,Onions,26,312,Burhanpur
+2025-05-21,Ram Veggies,Apples,58,1276,Burhanpur
+2025-05-21,Shyam Fruits,Tomatoes,42,420,Burhanpur
+2025-05-21,Shyam Fruits,Potatoes,77,1694,Burhanpur
+2025-05-21,Shyam Fruits,Bananas,69,690,Burhanpur
+2025-05-21,Shyam Fruits,Onions,72,1008,Burhanpur
+2025-05-21,Shyam Fruits,Apples,50,750,Burhanpur
+2025-05-21,JioMart,Tomatoes,198,3762,Burhanpur
+2025-05-21,JioMart,Potatoes,262,6026,Burhanpur
+2025-05-21,JioMart,Bananas,157,1727,Burhanpur
+2025-05-21,JioMart,Onions,202,1616,Burhanpur
+2025-05-21,JioMart,Apples,108,1728,Burhanpur
+2025-05-22,Ram Veggies,Tomatoes,36,864,Burhanpur
+2025-05-22,Ram Veggies,Potatoes,94,940,Burhanpur
+2025-05-22,Ram Veggies,Bananas,67,1608,Burhanpur
+2025-05-22,Ram Veggies,Onions,87,1392,Burhanpur
+2025-05-22,Ram Veggies,Apples,82,1148,Burhanpur
+2025-05-22,Shyam Fruits,Tomatoes,28,700,Burhanpur
+2025-05-22,Shyam Fruits,Potatoes,22,242,Burhanpur
+2025-05-22,Shyam Fruits,Bananas,60,600,Burhanpur
+2025-05-22,Shyam Fruits,Onions,50,800,Burhanpur
+2025-05-22,Shyam Fruits,Apples,41,615,Burhanpur
+2025-05-22,JioMart,Tomatoes,128,1024,Burhanpur
+2025-05-22,JioMart,Potatoes,207,2070,Burhanpur
+2025-05-22,JioMart,Bananas,117,1404,Burhanpur
+2025-05-22,JioMart,Onions,269,2152,Burhanpur
+2025-05-22,JioMart,Apples,203,4466,Burhanpur
+2025-05-23,Ram Veggies,Tomatoes,85,1530,Burhanpur
+2025-05-23,Ram Veggies,Potatoes,30,240,Burhanpur
+2025-05-23,Ram Veggies,Bananas,39,897,Burhanpur
+2025-05-23,Ram Veggies,Onions,47,940,Burhanpur
+2025-05-23,Ram Veggies,Apples,61,1220,Burhanpur
+2025-05-23,Shyam Fruits,Tomatoes,93,2232,Burhanpur
+2025-05-23,Shyam Fruits,Potatoes,56,504,Burhanpur
+2025-05-23,Shyam Fruits,Bananas,69,621,Burhanpur
+2025-05-23,Shyam Fruits,Onions,27,351,Burhanpur
+2025-05-23,Shyam Fruits,Apples,75,1875,Burhanpur
+2025-05-23,JioMart,Tomatoes,119,2856,Burhanpur
+2025-05-23,JioMart,Potatoes,113,2034,Burhanpur
+2025-05-23,JioMart,Bananas,156,3744,Burhanpur
+2025-05-23,JioMart,Onions,119,1190,Burhanpur
+2025-05-23,JioMart,Apples,154,2618,Burhanpur
+2025-05-24,Ram Veggies,Tomatoes,31,279,Burhanpur
+2025-05-24,Ram Veggies,Potatoes,46,920,Burhanpur
+2025-05-24,Ram Veggies,Bananas,35,875,Burhanpur
+2025-05-24,Ram Veggies,Onions,36,288,Burhanpur
+2025-05-24,Ram Veggies,Apples,50,750,Burhanpur
+2025-05-24,Shyam Fruits,Tomatoes,66,1650,Burhanpur
+2025-05-24,Shyam Fruits,Potatoes,22,484,Burhanpur
+2025-05-24,Shyam Fruits,Bananas,97,2037,Burhanpur
+2025-05-24,Shyam Fruits,Onions,32,576,Burhanpur
+2025-05-24,Shyam Fruits,Apples,40,400,Burhanpur
+2025-05-24,JioMart,Tomatoes,214,2354,Burhanpur
+2025-05-24,JioMart,Potatoes,186,4092,Burhanpur
+2025-05-24,JioMart,Bananas,252,3276,Burhanpur
+2025-05-24,JioMart,Onions,156,3744,Burhanpur
+2025-05-24,JioMart,Apples,235,4700,Burhanpur
+2025-05-25,Ram Veggies,Tomatoes,87,1914,Burhanpur
+2025-05-25,Ram Veggies,Potatoes,24,336,Burhanpur
+2025-05-25,Ram Veggies,Bananas,68,1428,Burhanpur
+2025-05-25,Ram Veggies,Onions,99,1782,Burhanpur
+2025-05-25,Ram Veggies,Apples,99,1584,Burhanpur
+2025-05-25,Shyam Fruits,Tomatoes,27,243,Burhanpur
+2025-05-25,Shyam Fruits,Potatoes,30,600,Burhanpur
+2025-05-25,Shyam Fruits,Bananas,43,473,Burhanpur
+2025-05-25,Shyam Fruits,Onions,49,833,Burhanpur
+2025-05-25,Shyam Fruits,Apples,80,800,Burhanpur
+2025-05-25,JioMart,Tomatoes,123,2091,Burhanpur
+2025-05-25,JioMart,Potatoes,260,2600,Burhanpur
+2025-05-25,JioMart,Bananas,262,4716,Burhanpur
+2025-05-25,JioMart,Onions,189,3591,Burhanpur
+2025-05-25,JioMart,Apples,104,1040,Burhanpur
+2025-05-26,Ram Veggies,Tomatoes,91,1456,Burhanpur
+2025-05-26,Ram Veggies,Potatoes,62,744,Burhanpur
+2025-05-26,Ram Veggies,Bananas,54,1026,Burhanpur
+2025-05-26,Ram Veggies,Onions,61,1281,Burhanpur
+2025-05-26,Ram Veggies,Apples,57,1197,Burhanpur
+2025-05-26,Shyam Fruits,Tomatoes,68,612,Burhanpur
+2025-05-26,Shyam Fruits,Potatoes,51,1224,Burhanpur
+2025-05-26,Shyam Fruits,Bananas,82,984,Burhanpur
+2025-05-26,Shyam Fruits,Onions,92,2116,Burhanpur
+2025-05-26,Shyam Fruits,Apples,100,1400,Burhanpur
+2025-05-26,JioMart,Tomatoes,237,4740,Burhanpur
+2025-05-26,JioMart,Potatoes,106,2332,Burhanpur
+2025-05-26,JioMart,Bananas,102,918,Burhanpur
+2025-05-26,JioMart,Onions,256,5888,Burhanpur
+2025-05-26,JioMart,Apples,273,5733,Burhanpur
+2025-05-27,Ram Veggies,Tomatoes,34,646,Burhanpur
+2025-05-27,Ram Veggies,Potatoes,60,960,Burhanpur
+2025-05-27,Ram Veggies,Bananas,59,649,Burhanpur
+2025-05-27,Ram Veggies,Onions,33,297,Burhanpur
+2025-05-27,Ram Veggies,Apples,70,1050,Burhanpur
+2025-05-27,Shyam Fruits,Tomatoes,86,860,Burhanpur
+2025-05-27,Shyam Fruits,Potatoes,40,760,Burhanpur
+2025-05-27,Shyam Fruits,Bananas,99,1782,Burhanpur
+2025-05-27,Shyam Fruits,Onions,28,672,Burhanpur
+2025-05-27,Shyam Fruits,Apples,81,1053,Burhanpur
+2025-05-27,JioMart,Tomatoes,166,2324,Burhanpur
+2025-05-27,JioMart,Potatoes,297,5346,Burhanpur
+2025-05-27,JioMart,Bananas,159,2544,Burhanpur
+2025-05-27,JioMart,Onions,232,2088,Burhanpur
+2025-05-27,JioMart,Apples,276,5796,Burhanpur
+2025-05-28,Ram Veggies,Tomatoes,46,506,Burhanpur
+2025-05-28,Ram Veggies,Potatoes,50,550,Burhanpur
+2025-05-28,Ram Veggies,Bananas,84,2016,Burhanpur
+2025-05-28,Ram Veggies,Onions,94,846,Burhanpur
+2025-05-28,Ram Veggies,Apples,20,280,Burhanpur
+2025-05-28,Shyam Fruits,Tomatoes,30,720,Burhanpur
+2025-05-28,Shyam Fruits,Potatoes,78,1326,Burhanpur
+2025-05-28,Shyam Fruits,Bananas,52,572,Burhanpur
+2025-05-28,Shyam Fruits,Onions,43,559,Burhanpur
+2025-05-28,Shyam Fruits,Apples,41,861,Burhanpur
+2025-05-28,JioMart,Tomatoes,152,1672,Burhanpur
+2025-05-28,JioMart,Potatoes,221,2873,Burhanpur
+2025-05-28,JioMart,Bananas,244,4880,Burhanpur
+2025-05-28,JioMart,Onions,259,3367,Burhanpur
+2025-05-28,JioMart,Apples,121,2783,Burhanpur
+2025-05-29,Ram Veggies,Tomatoes,23,437,Burhanpur
+2025-05-29,Ram Veggies,Potatoes,72,576,Burhanpur
+2025-05-29,Ram Veggies,Bananas,50,1250,Burhanpur
+2025-05-29,Ram Veggies,Onions,56,448,Burhanpur
+2025-05-29,Ram Veggies,Apples,22,506,Burhanpur
+2025-05-29,Shyam Fruits,Tomatoes,80,1760,Burhanpur
+2025-05-29,Shyam Fruits,Potatoes,29,725,Burhanpur
+2025-05-29,Shyam Fruits,Bananas,100,2200,Burhanpur
+2025-05-29,Shyam Fruits,Onions,47,705,Burhanpur
+2025-05-29,Shyam Fruits,Apples,73,803,Burhanpur
+2025-05-29,JioMart,Tomatoes,249,4233,Burhanpur
+2025-05-29,JioMart,Potatoes,200,2000,Burhanpur
+2025-05-29,JioMart,Bananas,119,1547,Burhanpur
+2025-05-29,JioMart,Onions,171,4275,Burhanpur
+2025-05-29,JioMart,Apples,150,2700,Burhanpur
+2025-05-30,Ram Veggies,Tomatoes,38,912,Burhanpur
+2025-05-30,Ram Veggies,Potatoes,75,1050,Burhanpur
+2025-05-30,Ram Veggies,Bananas,66,1254,Burhanpur
+2025-05-30,Ram Veggies,Onions,98,2058,Burhanpur
+2025-05-30,Ram Veggies,Apples,78,1950,Burhanpur
+2025-05-30,Shyam Fruits,Tomatoes,49,392,Burhanpur
+2025-05-30,Shyam Fruits,Potatoes,67,1407,Burhanpur
+2025-05-30,Shyam Fruits,Bananas,98,1274,Burhanpur
+2025-05-30,Shyam Fruits,Onions,97,1843,Burhanpur
+2025-05-30,Shyam Fruits,Apples,33,264,Burhanpur
+2025-05-30,JioMart,Tomatoes,249,2988,Burhanpur
+2025-05-30,JioMart,Potatoes,226,4068,Burhanpur
+2025-05-30,JioMart,Bananas,299,4784,Burhanpur
+2025-05-30,JioMart,Onions,121,1210,Burhanpur
+2025-05-30,JioMart,Apples,115,2760,Burhanpur
+2025-05-31,Ram Veggies,Tomatoes,42,1050,Burhanpur
+2025-05-31,Ram Veggies,Potatoes,71,994,Burhanpur
+2025-05-31,Ram Veggies,Bananas,86,1204,Burhanpur
+2025-05-31,Ram Veggies,Onions,92,1012,Burhanpur
+2025-05-31,Ram Veggies,Apples,70,1330,Burhanpur
+2025-05-31,Shyam Fruits,Tomatoes,24,312,Burhanpur
+2025-05-31,Shyam Fruits,Potatoes,50,1150,Burhanpur
+2025-05-31,Shyam Fruits,Bananas,100,2000,Burhanpur
+2025-05-31,Shyam Fruits,Onions,21,210,Burhanpur
+2025-05-31,Shyam Fruits,Apples,63,1323,Burhanpur
+2025-05-31,JioMart,Tomatoes,189,3591,Burhanpur
+2025-05-31,JioMart,Potatoes,146,2774,Burhanpur
+2025-05-31,JioMart,Bananas,178,3382,Burhanpur
+2025-05-31,JioMart,Onions,169,1352,Burhanpur
+2025-05-31,JioMart,Apples,118,2006,Burhanpur
+2025-06-01,Ram Veggies,Tomatoes,74,1554,Burhanpur
+2025-06-01,Ram Veggies,Potatoes,54,1242,Burhanpur
+2025-06-01,Ram Veggies,Bananas,47,752,Burhanpur
+2025-06-01,Ram Veggies,Onions,27,270,Burhanpur
+2025-06-01,Ram Veggies,Apples,33,297,Burhanpur
+2025-06-01,Shyam Fruits,Tomatoes,31,558,Burhanpur
+2025-06-01,Shyam Fruits,Potatoes,48,576,Burhanpur
+2025-06-01,Shyam Fruits,Bananas,28,476,Burhanpur
+2025-06-01,Shyam Fruits,Onions,70,1470,Burhanpur
+2025-06-01,Shyam Fruits,Apples,51,867,Burhanpur
+2025-06-01,JioMart,Tomatoes,287,4305,Burhanpur
+2025-06-01,JioMart,Potatoes,260,2080,Burhanpur
+2025-06-01,JioMart,Bananas,235,2350,Burhanpur
+2025-06-01,JioMart,Onions,166,1328,Burhanpur
+2025-06-01,JioMart,Apples,228,3420,Burhanpur
+2025-06-02,Ram Veggies,Tomatoes,76,1064,Burhanpur
+2025-06-02,Ram Veggies,Potatoes,70,1120,Burhanpur
+2025-06-02,Ram Veggies,Bananas,53,1219,Burhanpur
+2025-06-02,Ram Veggies,Onions,40,960,Burhanpur
+2025-06-02,Ram Veggies,Apples,82,1066,Burhanpur
+2025-06-02,Shyam Fruits,Tomatoes,31,558,Burhanpur
+2025-06-02,Shyam Fruits,Potatoes,40,320,Burhanpur
+2025-06-02,Shyam Fruits,Bananas,94,1128,Burhanpur
+2025-06-02,Shyam Fruits,Onions,60,960,Burhanpur
+2025-06-02,Shyam Fruits,Apples,35,280,Burhanpur
+2025-06-02,JioMart,Tomatoes,250,2000,Burhanpur
+2025-06-02,JioMart,Potatoes,157,1256,Burhanpur
+2025-06-02,JioMart,Bananas,276,2760,Burhanpur
+2025-06-02,JioMart,Onions,144,2304,Burhanpur
+2025-06-02,JioMart,Apples,228,2508,Burhanpur
+2025-06-03,Ram Veggies,Tomatoes,25,475,Burhanpur
+2025-06-03,Ram Veggies,Potatoes,89,1424,Burhanpur
+2025-06-03,Ram Veggies,Bananas,84,1512,Burhanpur
+2025-06-03,Ram Veggies,Onions,48,432,Burhanpur
+2025-06-03,Ram Veggies,Apples,46,874,Burhanpur
+2025-06-03,Shyam Fruits,Tomatoes,31,465,Burhanpur
+2025-06-03,Shyam Fruits,Potatoes,52,520,Burhanpur
+2025-06-03,Shyam Fruits,Bananas,23,506,Burhanpur
+2025-06-03,Shyam Fruits,Onions,32,352,Burhanpur
+2025-06-03,Shyam Fruits,Apples,85,1870,Burhanpur
+2025-06-03,JioMart,Tomatoes,115,2300,Burhanpur
+2025-06-03,JioMart,Potatoes,121,1089,Burhanpur
+2025-06-03,JioMart,Bananas,204,2040,Burhanpur
+2025-06-03,JioMart,Onions,112,1456,Burhanpur
+2025-06-03,JioMart,Apples,243,4131,Burhanpur
+2025-06-04,Ram Veggies,Tomatoes,49,392,Burhanpur
+2025-06-04,Ram Veggies,Potatoes,37,481,Burhanpur
+2025-06-04,Ram Veggies,Bananas,37,518,Burhanpur
+2025-06-04,Ram Veggies,Onions,70,1120,Burhanpur
+2025-06-04,Ram Veggies,Apples,95,1710,Burhanpur
+2025-06-04,Shyam Fruits,Tomatoes,97,776,Burhanpur
+2025-06-04,Shyam Fruits,Potatoes,76,1292,Burhanpur
+2025-06-04,Shyam Fruits,Bananas,79,1422,Burhanpur
+2025-06-04,Shyam Fruits,Onions,70,1750,Burhanpur
+2025-06-04,Shyam Fruits,Apples,76,1748,Burhanpur
+2025-06-04,JioMart,Tomatoes,255,2295,Burhanpur
+2025-06-04,JioMart,Potatoes,229,2519,Burhanpur
+2025-06-04,JioMart,Bananas,225,2925,Burhanpur
+2025-06-04,JioMart,Onions,150,3450,Burhanpur
+2025-06-04,JioMart,Apples,219,3504,Burhanpur
+2025-06-05,Ram Veggies,Tomatoes,75,1275,Burhanpur
+2025-06-05,Ram Veggies,Potatoes,44,880,Burhanpur
+2025-06-05,Ram Veggies,Bananas,37,666,Burhanpur
+2025-06-05,Ram Veggies,Onions,26,442,Burhanpur
+2025-06-05,Ram Veggies,Apples,48,720,Burhanpur
+2025-06-05,Shyam Fruits,Tomatoes,22,242,Burhanpur
+2025-06-05,Shyam Fruits,Potatoes,40,360,Burhanpur
+2025-06-05,Shyam Fruits,Bananas,72,576,Burhanpur
+2025-06-05,Shyam Fruits,Onions,79,1896,Burhanpur
+2025-06-05,Shyam Fruits,Apples,75,600,Burhanpur
+2025-06-05,JioMart,Tomatoes,251,2761,Burhanpur
+2025-06-05,JioMart,Potatoes,236,4956,Burhanpur
+2025-06-05,JioMart,Bananas,103,824,Burhanpur
+2025-06-05,JioMart,Onions,189,2457,Burhanpur
+2025-06-05,JioMart,Apples,141,3525,Burhanpur
+2025-06-06,Ram Veggies,Tomatoes,41,984,Burhanpur
+2025-06-06,Ram Veggies,Potatoes,77,1386,Burhanpur
+2025-06-06,Ram Veggies,Bananas,24,504,Burhanpur
+2025-06-06,Ram Veggies,Onions,51,663,Burhanpur
+2025-06-06,Ram Veggies,Apples,58,1160,Burhanpur
+2025-06-06,Shyam Fruits,Tomatoes,66,990,Burhanpur
+2025-06-06,Shyam Fruits,Potatoes,26,598,Burhanpur
+2025-06-06,Shyam Fruits,Bananas,21,294,Burhanpur
+2025-06-06,Shyam Fruits,Onions,100,2500,Burhanpur
+2025-06-06,Shyam Fruits,Apples,20,320,Burhanpur
+2025-06-06,JioMart,Tomatoes,106,1696,Burhanpur
+2025-06-06,JioMart,Potatoes,113,2260,Burhanpur
+2025-06-06,JioMart,Bananas,267,5340,Burhanpur
+2025-06-06,JioMart,Onions,213,5325,Burhanpur
+2025-06-06,JioMart,Apples,175,2800,Burhanpur
+2025-06-07,Ram Veggies,Tomatoes,45,990,Burhanpur
+2025-06-07,Ram Veggies,Potatoes,89,890,Burhanpur
+2025-06-07,Ram Veggies,Bananas,32,512,Burhanpur
+2025-06-07,Ram Veggies,Onions,33,495,Burhanpur
+2025-06-07,Ram Veggies,Apples,62,1240,Burhanpur
+2025-06-07,Shyam Fruits,Tomatoes,50,1050,Burhanpur
+2025-06-07,Shyam Fruits,Potatoes,24,432,Burhanpur
+2025-06-07,Shyam Fruits,Bananas,85,1870,Burhanpur
+2025-06-07,Shyam Fruits,Onions,34,442,Burhanpur
+2025-06-07,Shyam Fruits,Apples,42,504,Burhanpur
+2025-06-07,JioMart,Tomatoes,102,1632,Burhanpur
+2025-06-07,JioMart,Potatoes,287,5453,Burhanpur
+2025-06-07,JioMart,Bananas,125,2500,Burhanpur
+2025-06-07,JioMart,Onions,224,2688,Burhanpur
+2025-06-07,JioMart,Apples,137,1370,Burhanpur
+2025-06-08,Ram Veggies,Tomatoes,84,1512,Burhanpur
+2025-06-08,Ram Veggies,Potatoes,99,1980,Burhanpur
+2025-06-08,Ram Veggies,Bananas,44,836,Burhanpur
+2025-06-08,Ram Veggies,Onions,44,396,Burhanpur
+2025-06-08,Ram Veggies,Apples,50,1000,Burhanpur
+2025-06-08,Shyam Fruits,Tomatoes,74,1776,Burhanpur
+2025-06-08,Shyam Fruits,Potatoes,86,1118,Burhanpur
+2025-06-08,Shyam Fruits,Bananas,48,1008,Burhanpur
+2025-06-08,Shyam Fruits,Onions,23,322,Burhanpur
+2025-06-08,Shyam Fruits,Apples,93,2325,Burhanpur
+2025-06-08,JioMart,Tomatoes,277,2216,Burhanpur
+2025-06-08,JioMart,Potatoes,276,3036,Burhanpur
+2025-06-08,JioMart,Bananas,172,2064,Burhanpur
+2025-06-08,JioMart,Onions,115,1150,Burhanpur
+2025-06-08,JioMart,Apples,168,4032,Burhanpur
